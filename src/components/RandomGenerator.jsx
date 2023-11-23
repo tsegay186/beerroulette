@@ -144,10 +144,8 @@ const MyComponent = () => {
                         </span>
                     </div>
                         <div className="h-100 flex items-center justify-center">
-                            <div>
-                                <img src="src\assets\bott.png" alt="corky" className="max-w-48 max-h-48 bg-cover " />
-                            </div>
-                            <div className=" absolute">
+                            
+                            <div className="mt-3">
                                 <span className="font-bold text-black-900 text-3xl">
                                     {number ?? ''}
                                 </span>
