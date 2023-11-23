@@ -1,0 +1,12 @@
+#root{
+background-color: rgb(127 29 29);
+width: fit-content;
+height: max-content;
+margin: 0 auto;
+min-width: 480px;
+}
+body{
+background-color: rgb(127 29 29);
+height:auto ;
+width: fit-content;
+}
