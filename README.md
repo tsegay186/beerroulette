@@ -1,8 +1,3 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a Beer Game which is a simple but addictive game where players choose combination of numbers from 1 to 24. and then Some numbers(according to the game configuration) are drawn randomly if player's chosen numbers are there in the drawn numbers , they drink some(according to the odd) beer for free and get some payouts. If player’s chosen numbers are not there in the randomly drawn numbers, they pay some stake for their try.
